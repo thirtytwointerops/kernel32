@@ -29,7 +29,7 @@ To create your package, follow these steps:
 
 -   On Microsoft Windows, install the recent [NuGet CLI][url_nuget_cli] version.
 -   Copy the `nuget.exe` file into the `NuGet` folder.
--   Run the `nuget pack` command
+-   Run the `nuget pack` command.
 
 If you have [cURL][url_curl] installed, run:
 
