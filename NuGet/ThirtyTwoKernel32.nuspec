@@ -23,7 +23,7 @@
 
     <files>
         <file src="thirtytwo.png" target="" />
-        <file src="..\README.md" target="" />
+        <file src="README.md" target="" />
 
         <file src="..\ThirtyTwo\bin\Release\ThirtyTwo.Kernel32.dll" target="lib\net40\" />
         <file src="..\ThirtyTwo\bin\Release\ThirtyTwo.Kernel32.pdb" target="lib\net40\" />
