@@ -10,6 +10,8 @@ Interoperamos todos os métodos, estruturas e enumerações Kernel32 da API do W
 
 > **IMPORTANTE:** alguns métodos podem não funcionar corretamente, pois foram projetados para uso no ambiente **C++**, sugerimos que, caso existam meios alternativos e mais confiáveis ​​para determinado objetivo, utilize-os.
 
+---
+
 #### **English (United States)**
 
 We interoperate all Kernel32 methods, structures, and enumerations from the Windows API to the .NET Framework following [official Microsoft documentation][microsoft_docs].
