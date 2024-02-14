@@ -7,6 +7,10 @@
 Nuget/*.exe
 Nuget/*.nupkg
 
+# For security
+*.exe
+*.dll
+
 # User-specific files
 *.rsuser
 *.suo
