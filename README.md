@@ -1,15 +1,20 @@
 [github_sponsors]: https://github.com/sponsors/eduardobaginskicosta
 [patreon]: https://www.patreon.com/eduardobcosta
+[microsoft_docs]: https://learn.microsoft.com/en-us/windows/console/console-reference
 
 # ThirtyTwo • Kernel32
 
-**Português (Brasil)**
+#### **Português (Brasil)**
 
-Interoperamos todos os métodos, estruturas e enumerações Kernel32 da API do Windows para o .NET Framework.
+Interoperamos todos os métodos, estruturas e enumerações Kernel32 da API do Windows para o .NET Framework seguindo a [documentação oficial da Microsoft][microsoft_docs].
 
-**English (United States)**
+> **IMPORTANTE:** alguns métodos podem não funcionar corretamente, pois foram projetados para uso no ambiente **C++**, sugerimos que, caso existam meios alternativos e mais confiáveis ​​para determinado objetivo, utilize-os.
 
-We have interoperated all Kernel32 methods, structures, and enumerations from the Windows API to the .NET Framework.
+#### **English (United States)**
+
+We interoperate all Kernel32 methods, structures, and enumerations from the Windows API to the .NET Framework following [official Microsoft documentation][microsoft_docs].
+
+> **IMPORTANT:** some methods may not work correctly, as they were designed for use in the **C++** environment, we suggest that, if there are alternative and more reliable means for a given objective, use them.
 
 ---
 
