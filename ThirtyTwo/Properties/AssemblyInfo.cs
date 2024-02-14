@@ -6,7 +6,7 @@ using System.Reflection;
 [assembly: AssemblyConfiguration("retail")]
 [assembly: AssemblyCompany("ThirtyTwo Interops")]
 [assembly: AssemblyProduct("ThirtyTwo.Kernel32")]
-[assembly: AssemblyCopyright("Copyright © 2024")]
+[assembly: AssemblyCopyright("Copyright © 2024 ThirtyTwo Interops")]
 [assembly: AssemblyTrademark("ThirtyTwo")]
 
 [assembly: Guid("d7ba9bd7-2edf-4e74-bd15-b32c8d432afb")]
