@@ -5,15 +5,7 @@
 [url_nuget_cli]: https://www.nuget.org/downloads
 [url_curl]: https://curl.se/download.html
 
-### **Português (Brasil)**
-
-Interoperamos todos os métodos, estruturas e enumerações Kernel32 da API do Windows para o .NET Framework seguindo a [documentação oficial da Microsoft][url_microsoft_docs].
-
-> **IMPORTANTE:** alguns métodos podem não funcionar corretamente, pois foram projetados para uso no ambiente **C++**, sugerimos que, caso existam meios alternativos e mais confiáveis ​​para determinado objetivo, utilize-os.
-
----
-
-### **English (United States)**
+# ThirtyTwo - Kernel32
 
 We interoperate all Kernel32 methods, structures, and enumerations from the Windows API to the .NET Framework following [official Microsoft documentation][url_microsoft_docs].
 
@@ -21,7 +13,7 @@ We interoperate all Kernel32 methods, structures, and enumerations from the Wind
 
 ---
 
-### Create the NuGet Package
+## Create the NuGet Package
 
 The library comes with the pre-configured `.nuspec` file for creating the [Nuget][url_nuget] package, with only the need to change the package information.
 
