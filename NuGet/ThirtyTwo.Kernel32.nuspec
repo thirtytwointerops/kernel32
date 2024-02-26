@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
-    <metadata>
-        <title>ThirtyTwoKernel32</title>
-        <id>ThirtyTwo.Kernel32</id>
-        <version>1.0.0</version>
-        <description>Windows API Kernel32 interop library for the .NET Framework.</description>
-        <authors>Eduardo Baginski Costa, ThirtyTwo Interops</authors>
-        <owners>eduardobcosta</owners>
-        <readme>README.md</readme>
+	<metadata>
+		<title>ThirtyTwo.Kernel32</title>
+		<id>ThirtyTwo.Kernel32</id>
+		<version>1.0.0.1</version>
+		<description>Windows API Kernel32 interop library for the .NET Framework.</description>
+		<authors>Eduardo Baginski Costa, ThirtyTwo Interops</authors>
+		<owners>eduardobcosta</owners>
+		<readme>README.md</readme>
 
-        <icon>thirtytwo.png</icon>
-        <projectUrl>https://github.com/thirtytwointerops/kernel32</projectUrl>
-        <copyright>Copyright © 2024 ThirtyTwo Interops</copyright>
+		<tags>win32 win32api kernel32 kernel32dll thirtytwo interoperability interop</tags>
 
-        <requireLicenseAcceptance>true</requireLicenseAcceptance>
-        <license type="expression">MIT</license>
+		<icon>thirtytwo.png</icon>
+		<projectUrl>https://github.com/thirtytwointerops/kernel32</projectUrl>
+		<repository type="git" url="https://github.com/thirtytwointerops/kernel32.git" branch="main" />
+		<copyright>Copyright © 2024 ThirtyTwo Interops</copyright>
 
-        <dependencies>
-            <group targetFramework=".NETFramework4.0"></group>
-        </dependencies>
-    </metadata>
+		<requireLicenseAcceptance>true</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
 
-    <files>
-        <file src="thirtytwo.png" target="" />
-        <file src="README.md" target="" />
+		<dependencies>
+			<group targetFramework=".NETFramework4.0"></group>
+		</dependencies>
+	</metadata>
 
-        <file src="..\ThirtyTwo\bin\Release\ThirtyTwo.Kernel32.dll" target="lib\net40\" />
-        <file src="..\ThirtyTwo\bin\Release\ThirtyTwo.Kernel32.pdb" target="lib\net40\" />
-        <file src="..\ThirtyTwo\bin\Release\ThirtyTwo.Kernel32.xml" target="lib\net40\" />
-    </files>
+	<files>
+		<file src="thirtytwo.png" target="" />
+		<file src="README.md" target="" />
+
+		<file src="..\ThirtyTwo\bin\Release\ThirtyTwo.Kernel32.dll" target="lib\net40\" />
+		<file src="..\ThirtyTwo\bin\Release\ThirtyTwo.Kernel32.pdb" target="lib\net40\" />
+		<file src="..\ThirtyTwo\bin\Release\ThirtyTwo.Kernel32.xml" target="lib\net40\" />
+	</files>
 </package>

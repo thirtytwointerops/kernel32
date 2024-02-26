@@ -12,5 +12,5 @@ using System.Reflection;
 [assembly: Guid("d7ba9bd7-2edf-4e74-bd15-b32c8d432afb")]
 [assembly: ComVisible(false)]
 
-[assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.1")]
+[assembly: AssemblyVersion("1.0.0.1")]
