@@ -14,7 +14,7 @@
 <!-- "INTERNAL" LINKS -->
 
 [url_thirtytwo]: https://github.com/thirtytwointerops
-[url_package]: https://www.nuget.org/packages/ThirtyTwo.Kernel32/1.0.0.1
+[url_package]: https://www.nuget.org/packages/ThirtyTwo.Kernel32/
 
 <!-- IMAGES LINKS -->
 
