@@ -18,13 +18,13 @@
 
 <!-- IMAGES LINKS -->
 
-[image_nuget]: https://img.shields.io/badge/Install_NuGet_Package-004880?style=for-the-badge&logo=nuget&logoColor=white
-[image_sponsors]: https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white
-[image_patreon]: https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
+[image_nuget]: /Assets/install_nuget_package.svg
+[image_sponsors]: /Assets/sponsor_github.svg
+[image_patreon]: /Assets/sponsor_patreon.svg
 
 <!-- INTRODUCTION -->
 
-# ThirtyTwo - Kernel32
+![ThirtyTwo Interops • Kernel32](/Assets/banner.png)
 
 We interoperate all Kernel32 methods, structures, and enumerations from the Windows API to the .NET Framework following [official Microsoft documentation][url_microsoft_docs].
 
@@ -34,7 +34,7 @@ We interoperate all Kernel32 methods, structures, and enumerations from the Wind
 
 <!-- NUGET PACKAGE -->
 
-## Create the NuGet Package
+## 📦 Create the NuGet Package
 
 The library comes with the pre-configured `.nuspec` file for creating the [Nuget][url_nuget] package, with only the need to change the package information.
 
@@ -55,7 +55,7 @@ cd NuGet
 
 <!-- DONATE -->
 
-## Become a Sponsor or Make a Donation
+## ❤️ Become a Sponsor or Make a Donation
 
 Consider becoming a [Sponsor][url_github_sponsors] or [Donating][url_patreon] if the libraries in the [ThirtyTwo][url_thirtytwo] ecosystem help you in your daily life as a developer.
 
