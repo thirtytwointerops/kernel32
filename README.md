@@ -65,11 +65,11 @@ cd NuGet
 
 ---
 
-<h3 align="center">❤️ BECOME A SPONSOR <i>or</i> MAKE A DONATION ❤️</h3>
+<h3 align="center">❤️ BECOME A SPONSOR <u>or</u> MAKE A DONATION ❤️</h3>
 
 ---
 
-Consider becoming a [Sponsor][url_github_sponsors] or [Donating][url_patreon] if the libraries in the [ThirtyTwo][url_thirtytwo] ecosystem help you in your daily life as a developer.
+We work every day to bring new repositories and libraries to the **Open Source** community, and we are delighted to be part of it. If any of our libraries assist you in your daily work or if you wish to support the creation or maintenance of these libraries, please consider becoming a [Sponsor][url_github_sponsors] or making a donation on [Donating][url_patreon].
 
 [![Donate with GitHub Sponsors][image_sponsors]][url_github_sponsors]
 [![Donate with Patreon][image_patreon]][url_patreon]
