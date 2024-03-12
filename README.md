@@ -42,6 +42,8 @@ We interoperate all Kernel32 methods, structures, and enumerations from the Wind
 
 <h3 align="center">📦 CREATE THE NUGET PACKAGE 📦</h3>
 
+---
+
 The library comes with the pre-configured `.nuspec` file for creating the [Nuget][url_nuget] package, with only the need to change the package information.
 
 To create your package, follow these steps:
@@ -64,6 +66,8 @@ cd NuGet
 ---
 
 <h3 align="center">❤️ BECOME A SPONSOR <i>or</i> MAKE A DONATION ❤️</h3>
+
+---
 
 Consider becoming a [Sponsor][url_github_sponsors] or [Donating][url_patreon] if the libraries in the [ThirtyTwo][url_thirtytwo] ecosystem help you in your daily life as a developer.
 
