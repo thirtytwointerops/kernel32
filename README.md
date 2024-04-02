@@ -18,56 +18,46 @@
 
 <!-- IMAGES LINKS -->
 
-[image_nuget]: /Assets/install_nuget_package.svg
-[image_sponsors]: /Assets/sponsor_github.svg
-[image_patreon]: /Assets/sponsor_patreon.svg
+[image_nuget]: /Assets/install_nuget_package.png
+[image_sponsors]: /Assets/sponsor_github.png
+[image_patreon]: /Assets/sponsor_patreon.png
 
 <!-- INTRODUCTION -->
 
-![ThirtyTwo Interops • Kernel32](/Assets/banner.png)
+![ThirtyTwo Interops - Kernel32 Logo](/Assets/banner.png)
 
 We interoperate all Kernel32 methods, structures, and enumerations from the Windows API to the .NET Framework following [official Microsoft documentation][url_microsoft_docs].
 
 [![Install NuGet Package][image_nuget]][url_package]
 
----
 
-<h3 align="center">⚠️ IMPORTANT ⚠️</h3>
-
-**Some methods may not work correctly, as they were designed for use in the C++ environment, we suggest that, if there are alternative and more reliable means for a given objective, use them.**
+> **IMPORTANT**
+>
+> Some methods may not work correctly, as they were designed for use in the C++ environment, we suggest that, if there are alternative and more reliable means for a given objective, use them.
 
 <!-- NUGET PACKAGE -->
 
----
+## Create The NuGet Package
 
-<h3 align="center">📦 CREATE THE NUGET PACKAGE 📦</h3>
-
----
-
-The library comes with the pre-configured `.nuspec` file for creating the [Nuget][url_nuget] package, with only the need to change the package information.
+The library comes with the pre-configured **.nuspec** file for creating the [Nuget][url_nuget] package, with only the need to change the package information.
 
 To create your package, follow these steps:
 
 - On Microsoft Windows, install the recent [NuGet CLI][url_nuget_cli] version.
-- Open the project in [Visual Studio][url_visual_studio] and compile in `Release` mode
-- Download and copy the `nuget.exe` file into the `NuGet` folder.
-- Run the `nuget pack` command.
+- Open the project in [Visual Studio][url_visual_studio] and compile in **Release** mode
+- Download and copy the **nuget.exe** file into the **NuGet** folder.
+- Run the **nuget pack** command.
 
 If you have [cURL][url_curl] installed, after compiling the project, run the command:
 
 ```bash
 curl -o "NuGet/nuget.exe" "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe"
-cd NuGet
-./nuget pack
+cd NuGet && ./nuget pack
 ```
 
 <!-- DONATE -->
 
----
-
-<h3 align="center">❤️ BECOME A SPONSOR <u>or</u> MAKE A DONATION ❤️</h3>
-
----
+## Become a Sponsor or Make a Donation
 
 We work every day to bring new repositories and libraries to the **Open Source** community, and we are delighted to be part of it. If any of our libraries assist you in your daily work or if you wish to support the creation or maintenance of these libraries, please consider becoming a [Sponsor][url_github_sponsors] or making a donation on [Donating][url_patreon].
 
