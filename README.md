@@ -31,8 +31,7 @@ We interoperate all Kernel32 methods, structures, and enumerations from the Wind
 [![Install NuGet Package][image_nuget]][url_package]
 
 
-> **IMPORTANT**
->
+> **IMPORTANT**<br/>
 > Some methods may not work correctly, as they were designed for use in the C++ environment, we suggest that, if there are alternative and more reliable means for a given objective, use them.
 
 <!-- NUGET PACKAGE -->
