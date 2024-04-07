@@ -1,41 +1,32 @@
 <!-- DONATION LINKS -->
 
-[url_github_sponsors]: https://github.com/sponsors/eduardobaginskicosta
-[url_patreon]: https://www.patreon.com/eduardobcosta
-[url_microsoft_docs]: https://learn.microsoft.com/en-us/windows/console/console-reference
+[funding_url]: https://github.com/thirtytwointerops/funding
+[funding_image]: ./Assets/funding.svg
 
 <!-- EXTERNAL LINKS -->
 
-[url_nuget]: https://www.nuget.org/
+[url_microsoft_docs]: https://learn.microsoft.com/en-us/windows/console/console-reference
 [url_visual_studio]: https://visualstudio.microsoft.com/
 [url_nuget_cli]: https://www.nuget.org/downloads
 [url_curl]: https://curl.se/download.html
+[url_nuget]: https://www.nuget.org/
 
 <!-- "INTERNAL" LINKS -->
 
 [url_thirtytwo]: https://github.com/thirtytwointerops
-[url_package]: https://www.nuget.org/packages/ThirtyTwo.Kernel32/
-
-<!-- IMAGES LINKS -->
-
-[image_nuget]: /Assets/install_nuget_package.png
-[image_sponsors]: /Assets/sponsor_github.png
-[image_patreon]: /Assets/sponsor_patreon.png
 
 <!-- INTRODUCTION -->
-
-> **IMPORTANT**<br/>
-> Some methods may not work correctly, as they were designed for use in the C++ environment, we suggest that, if there are alternative and more reliable means for a given objective, use them.
 
 ![ThirtyTwo Interops - Kernel32 Logo](/Assets/banner.png)
 
 We interoperate all Kernel32 methods, structures, and enumerations from the Windows API to the .NET Framework following [official Microsoft documentation][url_microsoft_docs].
 
-[![Install NuGet Package][image_nuget]][url_package]
+> **IMPORTANT**<br/>
+> Some methods may not work correctly, as they were designed for use in the C++ environment, we suggest that, if there are alternative and more reliable means for a given objective, use them.
 
 <!-- NUGET PACKAGE -->
 
-## Create The NuGet Package
+## Create the NuGet Package
 
 The library comes with the pre-configured **.nuspec** file for creating the [Nuget][url_nuget] package, with only the need to change the package information.
 
@@ -55,9 +46,10 @@ cd NuGet && ./nuget pack
 
 <!-- DONATE -->
 
-## Become a Sponsor or Make a Donation
+## Become a sponsor or make a donation
 
-We work every day to bring new repositories and libraries to the **Open Source** community, and we are delighted to be part of it. If any of our libraries assist you in your daily work or if you wish to support the creation or maintenance of these libraries, please consider becoming a [Sponsor][url_github_sponsors] or making a donation on [Donating][url_patreon].
+With an unwavering commitment to excellence, our team tirelessly dedicates itself to enriching the **Open Source** community with new repositories, documents, style guides, and libraries. We take great pride in being a part of this transformative movement. We invite you to join us on this journey by becoming a **Sponsor** or contributing a **Donation** to the ThirtyTwo Interops initiative or to its dedicated contributors.
 
-[![Donate with GitHub Sponsors][image_sponsors]][url_github_sponsors]
-[![Donate with Patreon][image_patreon]][url_patreon]
+**Your generosity will enable us to continue driving innovation and expanding the horizons of the Open Source community.**
+
+[![Donate with GitHub Sponsors][funding_image]][funding_url]
