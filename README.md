@@ -1,6 +1,6 @@
 <!-- DONATION LINKS -->
 
-[funding_url]: https://github.com/thirtytwointerops/funding
+[funding_url]: https://github.com/sponsors/eduardobaginskicosta
 [funding_image]: ./Assets/funding.svg
 
 <!-- EXTERNAL LINKS -->
