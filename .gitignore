@@ -4,10 +4,12 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # NuGet
-Nuget/*.exe
-Nuget/*.nupkg
+[Nn]u[Gg]et/[Bb]in
+[Nn]u[Gg]et/*.exe
+[Nn]u[Gg]et/*.nupkg
 
 # For security
+*.nupkg
 *.exe
 *.dll
 
