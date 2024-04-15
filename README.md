@@ -29,7 +29,7 @@
 <!-- SECTION: BANNER -->
 
 <h1 align="center">ThirtyTwo Interops • Kernel32</h1>
-<img aria-label="TWindows API Kernel32 interop library for the .NET Framework." src=".\Assets\Banner\Kernel32.png" />
+<img aria-label="TWindows API Kernel32 interop library for the .NET Framework." src=".\Assets\Kernel32.png" />
 
 <p align="center">
 	<a aria-label="Follow in LinkedIn" href="https://www.linkedin.com/company/thirtytwointerops/" target="_blank">
