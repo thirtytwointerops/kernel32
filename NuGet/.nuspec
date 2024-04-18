@@ -3,7 +3,7 @@
 	<metadata>
 		<title>ThirtyTwo.Kernel32</title>
 		<id>ThirtyTwo.Kernel32</id>
-		<version>1.0.0.1</version>
+		<version>1.0.0.2</version>
 		<description>Windows API Kernel32 interop library for the .NET Framework.</description>
 		<authors>Eduardo Baginski Costa, ThirtyTwo Interops</authors>
 		<owners>eduardobcosta</owners>

@@ -63,7 +63,7 @@ namespace ThirtyTwo.Kernel32.Structures
     {
       if (firstStructure == null || secondStructure == null)
       {
-        return false;
+        return true;
       }
 
       return (

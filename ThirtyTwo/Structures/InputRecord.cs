@@ -27,31 +27,31 @@ namespace ThirtyTwo.Kernel32.Structures
     /// <summary>
     /// Describes a keyboard input event.
     /// </summary>
-    [FieldOffset(1)]
+    [FieldOffset(2)]
     public KeyEventRecord KeyEvent;
 
     /// <summary>
     /// Describes a mouse input event.
     /// </summary>
-    [FieldOffset(1)]
+    [FieldOffset(2)]
     public MouseEventRecord MouseEvent;
 
     /// <summary>
     /// Describes a change in the size of the console screen buffer.
     /// </summary>
-    [FieldOffset(1)]
+    [FieldOffset(2)]
     public WindowBufferSizeRecord WindowBufferSizeEvent;
 
     /// <summary>
     /// Describes a menu event;
     /// </summary>
-    [FieldOffset(1)]
+    [FieldOffset(2)]
     public MenuEventRecord MenuEvent;
 
     /// <summary>
     /// Describes a focus event.
     /// </summary>
-    [FieldOffset(1)]
+    [FieldOffset(2)]
     public FocusEventRecord FocusEvent;
 
     #endregion
@@ -95,7 +95,7 @@ namespace ThirtyTwo.Kernel32.Structures
     {
       if (firstStructure == null || secondStructure == null)
       {
-        return false;
+        return true;
       }
 
       return

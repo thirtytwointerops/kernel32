@@ -31,7 +31,7 @@ namespace ThirtyTwo.Kernel32.Structures
     /// The character's attributes. This member can be zero or a combination of
     /// values ​​from the "CharacterAttributes" enumeration.
     /// </summary>
-    [FieldOffset(1)]
+    [FieldOffset(2)]
     public CharacterAttributes Attributes;
 
     #endregion
@@ -72,7 +72,7 @@ namespace ThirtyTwo.Kernel32.Structures
     {
       if (firstStructure == null || secondStructure == null)
       {
-        return false;
+        return true;
       }
 
       return (
