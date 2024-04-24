@@ -1,15 +1,7 @@
 <!-- URLS: ASSETS -->
 
-[img_badges_funding_patreon]: .\Assets\Badges\FundingPatreon.svg
-[img_badges_funding_github]: .\Assets\Badges\FundingGitHub.svg
-
 [img_badges_nuget]: .\Assets\Badges\NuGet.svg
-[img_banner]: .\Assets\Banner\/Kernel32.png
-
-<!-- URLS: DONATION & FUNDING -->
-
-[funding_patreon]: https://www.patreon.com/eduardobcosta
-[funding_github]: https://github.com/sponsors/eduardobaginskicosta
+[img_banner]: .\Assets\Banner/Kernel32.png
 
 <!-- URLS: EXTERNAL REFERENCES -->
 
@@ -80,26 +72,5 @@ directory of the project. The package will be generated within the **NuGet** dir
 If you suspect that you have identified a vulnerability in any of our products, we ask that you disclose
 it responsibly, avoiding the creation of a public issue. All legitimate reports will be subject to active
 investigation. Please use the email `thirtytwointerops@gmail.com` to report any security vulnerabilities.
-   
+
 **We count on your collaboration to ensure the safety of everyone.**
-
-<!-- SECTION: DONATE -->
-
-## ❤️ Become a sponsor or make a donation
-
-With an unwavering commitment to excellence, our team tirelessly dedicates itself to enriching the
-**Open Source** community with new repositories, documents, style guides, and libraries. We take great
-pride in being a part of this transformative movement. We invite you to join us on this journey by
-becoming a **Sponsor** or contributing a **Donation** to the ThirtyTwo Interops initiative or to its
-dedicated contributors.
-
-**Your generosity will enable us to continue driving innovation and expanding the horizons of the Open Source community.**
-
-<p>
-	<a aria-label="GitHub Sponsors" href="https://github.com/sponsors/eduardobaginskicosta" target="_blank">
-		<img alt="" src=".\Assets\Badges\FundingGitHub.svg">
-	</a>
-	<a aria-label="Patreon" href="https://www.patreon.com/eduardobcosta" target="_blank">
-		<img alt="" src=".\Assets\Badges\FundingPatreon.svg">
-	</a>
-</p>
