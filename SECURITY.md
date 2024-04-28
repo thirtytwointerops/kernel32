@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-# 🛡️Report a Vulnerability
+# 🛡️ Security Policy
 
 If you suspect that you have identified a vulnerability in any of our products, we ask that you disclose
 it responsibly, avoiding the creation of a public issue. All legitimate reports will be subject to active
