@@ -40,7 +40,6 @@
 			src=".\Assets\Badges\LinkedIn.svg"
 		>
 	</a>
-	<br/>
 	<a
 		aria-label="Join the community on GitHub"
 		href="https://github.com/thirtytwointerops/.github/discussions"
