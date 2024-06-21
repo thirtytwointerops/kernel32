@@ -1,68 +1,16 @@
-<!-- TOOLS NEEDED -->
-
 [tool_dotnet]: https://dotnet.microsoft.com/pt-br/download/dotnet-framework
 [tool_nuget]: https://www.nuget.org/
 [tool_curl]: https://curl.se/download.html
 
-<!-- EXTERNAL URLS -->
+<!-- === -->
 
 [url_docs_microsoft_console]: https://learn.microsoft.com/en-us/windows/console/console-reference
 [url_thirtytwo]: https://github.com/thirtytwointerops
 [url_package]: https://www.nuget.org/packages/ThirtyTwo.Kernel32/
 
-<!-- HEADER -->
+<!-- === -->
 
-<h1 align="center">ThirtyTwo Interops • Kernel32</h1>
-
-<img
-	aria-label="TWindows API Kernel32 interop library for the .NET Framework."
-	src=".\Assets\ThirtyTwo.png"
-/>
-
-<p align="center">
-	<a
-		aria-label="Get NuGet Package"
-		href="https://www.nuget.org/packages/ThirtyTwo.Kernel32/"
-		target="_blank"
-	>
-		<img
-			alt=""
-			src=".\Assets\Badges\NuGet.svg"
-		>
-	</a>
-	<a
-		aria-label="Follow in LinkedIn"
-		href="https://www.linkedin.com/company/thirtytwointerops/"
-		target="_blank"
-	>
-		<img
-			alt=""
-			src=".\Assets\Badges\LinkedIn.svg"
-		>
-	</a>
-	<a
-		aria-label="Join the community on GitHub"
-		href="https://github.com/thirtytwointerops/.github/discussions"
-		target="_blank"
-	>
-		<img
-			alt=""
-			src=".\Assets\Badges\Community.svg"
-		>
-	</a>
-	<a
-		aria-label="License"
-		href=".\LICENSE"
-		target="_blank"
-	>
-		<img
-			alt=""
-			src=".\Assets\Badges\License.svg"
-		>
-	</a>
-</p>
-
-<!-- GET STARTED -->
+<h1>ThirtyTwo Interops • Kernel32</h1>
 
 ## 📘 Get Started
 
@@ -70,8 +18,6 @@ The [Kernel32][url_package], developed by a community specialized in the interop
 of Windows APIs, enables the use of all functions available in the Kernel32 API. It
 offers meticulously organized and named structures and enumerations, all based on
 [official Microsoft documentation][url_docs_microsoft_console].
-
-<!-- CREATE NUGET PACKAGE -->
 
 ## 📦 Create the NuGet Package
 
@@ -96,9 +42,8 @@ directory:
 
 ---
 
-<!-- AUTHORS -->
 <p>
   <b>
-    Maintained by <a href="https://github.com/eduardobaginskicosta" alt="Eduardo Baginski Costa profile">@eduardobaginskicosta</a>
-  </b>.
+    Maintained by <a href="https://github.com/eduardobaginskicosta" alt="Eduardo Baginski Costa profile">Eduardo Baginski Costa</a> and <a href="https://www.linkedin.com/company/novusinspire/">Novus Inspire</a>.
+  </b>
 </p>
