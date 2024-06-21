@@ -19,6 +19,8 @@ of Windows APIs, enables the use of all functions available in the Kernel32 API.
 offers meticulously organized and named structures and enumerations, all based on
 [official Microsoft documentation][url_docs_microsoft_console].
 
+**[Get The Official NuGet Package](https://www.nuget.org/packages/ThirtyTwo.Kernel32/)**
+
 ## 📦 Create the NuGet Package
 
 All libraries associated with the .NET Framework come with a pre-configured **.nuspec**
