@@ -10,8 +10,6 @@
 
 <!-- === -->
 
-<h1>Kernel32</h1>
-
 ## 📘 Get Started
 
 The [Kernel32][url_package], developed by a community specialized in the interoperability
