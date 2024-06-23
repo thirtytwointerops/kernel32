@@ -10,7 +10,7 @@
 
 <!-- === -->
 
-<h1>ThirtyTwo Interops • Kernel32</h1>
+<h1>Kernel32</h1>
 
 ## 📘 Get Started
 

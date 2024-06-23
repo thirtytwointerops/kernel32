@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+	<metadata>
+		<title>ThirtyTwo.Kernel32</title>
+		<id>ThirtyTwo.Kernel32</id>
+		<version>1.0.0.3</version>
+		<description>Windows API Kernel32 interop library for the .NET Framework.</description>
+		<authors>Eduardo Baginski Costa, ThirtyTwo Interops</authors>
+		<owners>eduardobcosta</owners>
+		<readme>README.md</readme>
+
+		<tags>win32 win32api kernel32 kernel32dll thirtytwo interoperability interop</tags>
+
+		<icon>.\icon.png</icon>
+		<projectUrl>https://github.com/thirtytwointerops/kernel32</projectUrl>
+		<repository type="git" url="https://github.com/thirtytwointerops/kernel32.git" branch="main" />
+		<copyright>Copyright © 2024 ThirtyTwo Interops and Novus Inspire</copyright>
+
+		<requireLicenseAcceptance>true</requireLicenseAcceptance>
+		<license type="expression">MIT</license>
+
+		<dependencies>
+			<group targetFramework=".NETFramework4.0"></group>
+		</dependencies>
+	</metadata>
+
+	<files>
+		<file src=".\icon.png" target="" />
+		<file src="README.md" target="" />
+
+		<file src="..\Source\bin\Release\ThirtyTwo.Kernel32.dll" target="lib\net40\" />
+	</files>
+</package>
