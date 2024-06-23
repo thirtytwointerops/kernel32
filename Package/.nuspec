@@ -5,7 +5,7 @@
 		<id>ThirtyTwo.Kernel32</id>
 		<version>1.0.0.3</version>
 		<description>Windows API Kernel32 interop library for the .NET Framework.</description>
-		<authors>Eduardo Baginski Costa, ThirtyTwo Interops</authors>
+		<authors>Eduardo Baginski Costa, ThirtyTwo Interops, Novus Inspire</authors>
 		<owners>eduardobcosta</owners>
 		<readme>README.md</readme>
 
