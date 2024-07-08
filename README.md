@@ -7,8 +7,12 @@
 [url_docs_microsoft_console]: https://learn.microsoft.com/en-us/windows/console/console-reference
 [url_thirtytwo]: https://github.com/thirtytwointerops
 [url_package]: https://www.nuget.org/packages/ThirtyTwo.Kernel32/
+[url_author]: https://github.com/eduardobaginskicosta
+[url_microsoft]: https://www.microsoft.com/en-us/startups
 
 <!-- === -->
+
+![ThirtyTwo Interops • Kernel32](./Assets/repo_small.png)
 
 ## 📘 Get Started
 
@@ -21,7 +25,7 @@ offers meticulously organized and named structures and enumerations, all based o
 
 ## 📦 Create the NuGet Package
 
-All libraries associated with the .NET Framework come with a pre-configured **.nuspec**
+All libraries associated with the .NET Framework come with a pre-configured **`.nuspec`**
 file intended for package creation. To ensure the safety of developers, we have
 consolidated all necessary commands into a single **Batch** file.
 
@@ -42,8 +46,5 @@ directory:
 
 ---
 
-<p>
-  <b>
-    Maintained by <a href="https://github.com/eduardobaginskicosta" alt="Eduardo Baginski Costa profile">Eduardo Baginski Costa</a> and <a href="https://www.linkedin.com/company/novusinspire/">Novus Inspire</a>.
-  </b>
-</p>
+**Now part of [Microsoft for Startups Founders Hub][url_microsoft]**  
+**Maintained by [Eduardo Baginski Costa][url_author]**
