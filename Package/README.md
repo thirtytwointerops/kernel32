@@ -1,4 +1,4 @@
 We interoperate all Kernel32 methods, structures, and enumerations from the Windows API to the .NET Framework following [official Microsoft documentation](https://learn.microsoft.com/en-us/windows/console/console-reference).
 
 **Now part of [Microsoft for Startups Founders Hub](https://www.microsoft.com/en-us/startups)**  
-**Maintained by [Eduardo Baginski Costa](https://github.com/eduardobaginskicosta)**
+**Maintained by [@eduardobaginskicosta](https://github.com/eduardobaginskicosta)**
