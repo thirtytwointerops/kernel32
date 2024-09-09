@@ -4,17 +4,17 @@
 
 <!-- == == == -->
 
-[social_instagram]: https://instagram.com/eduardobcosta7/
-[social_linkedin]: https://linkedin.com/in/eduardobaginskicosta/
-[social_twitter]: https://twitter.com/eduardobcosta7/
-
-<!-- == == == -->
-
 [url_docs_microsoft_console]: https://learn.microsoft.com/en-us/windows/console/console-reference
 [url_thirtytwo]: https://github.com/thirtytwointerops
 [url_package]: https://www.nuget.org/packages/ThirtyTwo.Kernel32/
 [url_author]: https://github.com/eduardobaginskicosta
 [url_microsoft]: https://www.microsoft.com/en-us/startups
+
+<!-- == == == -->
+
+[social_instagram]: https://instagram.com/eduardobcosta7/
+[social_linkedin]: https://linkedin.com/in/eduardobaginskicosta/
+[social_twitter]: https://twitter.com/eduardobcosta7/
 
 <!-- == == == -->
 
