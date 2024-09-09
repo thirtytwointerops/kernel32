@@ -14,8 +14,8 @@
 <h1 align="center">Kernel32 • Documentação</h1>
 
 **[Retornar à Página Inicial](../README.md)
-&emsp;|&emsp;[PT-BR](./pt-br/README.md)
-&ensp;•&ensp;[EN-US](./en-us/README.md)**
+&emsp;|&emsp;[PT-BR](../pt-br/README.md)
+&ensp;•&ensp;[EN-US](../en-us/README.md)**
 
 Bem-vindo à documentação revisada do [Kernel32][url_docs_microsoft_console],
 disponibilizada pela [Microsoft][url_microsoft]. Esta documentação tem como objetivo
