@@ -31,5 +31,5 @@ If all dependencies are properly installed, the following command should be exec
 
 ---
 
-**Now part of [Microsoft for Startups Founders Hub](https://www.microsoft.com/en-us/startups)**
+**Now part of [Microsoft for Startups Founders Hub](https://www.microsoft.com/en-us/startups)**   
 **Maintained by [@eduardobaginskicosta](https://github.com/eduardobaginskicosta)&emsp;|&emsp;[X](https://twitter.com/eduardobcosta7/)&ensp;•&ensp;[LinkedIn](https://linkedin.com/in/eduardobaginskicosta/)&ensp;•&ensp;[Instagram](https://instagram.com/eduardobcosta7/)**
