@@ -1,5 +1,6 @@
 ﻿namespace ThirtyTwo.Kernel32.Enumerations
 {
+  [Flags]
   public enum InputRecordEventType : ushort
   {
     Focus = 0x0010,

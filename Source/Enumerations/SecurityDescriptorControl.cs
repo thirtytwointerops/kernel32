@@ -1,6 +1,6 @@
 ﻿namespace ThirtyTwo.Kernel32.Enumerations
 {
-  [System.Flags]
+  [Flags]
   public enum SecurityDescriptorControl : uint
   {
     OwnerDefaulted = 0x0001,

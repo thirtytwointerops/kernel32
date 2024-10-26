@@ -1,6 +1,6 @@
 ﻿namespace ThirtyTwo.Kernel32.Enumerations
 {
-  [System.Flags]
+  [Flags]
   public enum ConsoleReadingBehavior : ushort
   {
     NoRemove = 0x0001,

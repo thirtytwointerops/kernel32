@@ -1,6 +1,4 @@
 ﻿using System.Runtime.InteropServices;
-using System;
-
 using ThirtyTwo.Kernel32.Enumerations;
 
 namespace ThirtyTwo.Kernel32.Structures

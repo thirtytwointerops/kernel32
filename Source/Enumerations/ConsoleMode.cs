@@ -1,6 +1,6 @@
 ﻿namespace ThirtyTwo.Kernel32.Enumerations
 {
-  [System.Flags]
+  [Flags]
   public enum ConsoleMode : uint
   {
     EnableEchoInput = 0x0004,

@@ -1,6 +1,6 @@
 ﻿namespace ThirtyTwo.Kernel32.Enumerations
 {
-  [System.Flags]
+  [Flags]
   public enum ControlEvent : uint
   {
     CtrlC = 0,

@@ -1,5 +1,4 @@
 ﻿using System.Runtime.InteropServices;
-using System;
 
 namespace ThirtyTwo.Kernel32.Structures
 {

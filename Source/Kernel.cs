@@ -1,7 +1,5 @@
 ﻿using System.Runtime.InteropServices;
 using System.Text;
-using System;
-
 using Microsoft.Win32.SafeHandles;
 
 using ThirtyTwo.Kernel32.Enumerations;
